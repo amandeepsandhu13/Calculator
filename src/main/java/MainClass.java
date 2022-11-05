@@ -12,5 +12,8 @@ public class MainClass {
 
         double resDivision = Calculator.divide(3,4);
         System.out.println("Division " +resDivision);
+        System.out.println("Hello");
+        
+        
     }
 }
